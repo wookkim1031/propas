@@ -7,6 +7,9 @@ PROPAS (The **PRO**perty **PA**tten **S**pecification and Analysis) is a tool se
 
 It consists of three separate engines that provide the overall functionality:
 
+### Personal Suggestion 
+Visual studio 2017 version and .NETFramework 3.5 still not working 
+Need to use SMTLibReqConsoleAppForTesting
 
 ### PROPAS UI 
 
